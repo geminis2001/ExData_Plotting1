@@ -33,7 +33,7 @@ web site</a>:
 <li><b>Sub_metering_3</b>: energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.</li>
 </ol>
 
-## Loading the data
+## Loading the data and generating the plots
 Put the file household_power_consumption.txt in the same directory that plotX.R (X in 1:4). load in memory the sources:
 
 plot1.R
