@@ -1,4 +1,6 @@
-Note: the plots are in <b>figure</b> directory
+## Note: the plots are in <b>figure</b> directory
+
+
 
 ## Introduction
 
