@@ -1,3 +1,5 @@
+Note: the plots are in <b>figure</b> directory
+
 ## Introduction
 
 This assignment uses data from
